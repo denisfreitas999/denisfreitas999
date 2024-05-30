@@ -22,9 +22,11 @@
   <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div><br/>
 
-Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos. Prov 16:3 
-
 ## Código e Linguagens
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisfreitas999)](https://github.com/denisfreitas999/github-readme-stats)
+
+## Lema
+
+Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos. Prov 16:3
 
