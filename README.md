@@ -26,7 +26,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisfreitas999)](https://github.com/denisfreitas999/github-readme-stats)
 
-## Lema
+## Lemas
 
-Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos. Prov 16:3
+Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos. – Prov 16:3
 
+Qualquer um consegue escrever código que um computador entende. Bons programadores escrevem código que humanos entendem. – Martin Fowler
+
+Princípio do Escotismo aplicado a programação:  Deixe o código mais limpo do que o que você encontrou. – Robert C. Martin
