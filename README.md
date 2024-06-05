@@ -24,7 +24,7 @@
 
 ## Código e Linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisfreitas999&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisfreitas999&langs_count=8)
 
 ## Lemas
 
