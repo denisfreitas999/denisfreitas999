@@ -28,7 +28,7 @@
 
 ## Lemas
 
-Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos. – Prov 16:3
+Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos. – Provérbios 16:3
 
 Qualquer um consegue escrever código que um computador entende. Bons programadores escrevem código que humanos entendem. – Martin Fowler
 
