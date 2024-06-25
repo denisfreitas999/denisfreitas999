@@ -22,7 +22,7 @@
 
 ## Código e Linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisfreitas999&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisfreitas999&hide=css,html_count=8)
 
 ## Lemas
 
