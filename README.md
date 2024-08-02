@@ -64,9 +64,8 @@ Clean Code: Always leave the campground cleaner than you found it. – Robert C.
 
 ## Working on: 🚀
 
-- Starting [DevOps Track](https://github.com/denisfreitas999/DevOps-Guide)
-- Learning [DevOps Level 1](https://github.com/denisfreitas999/Starting-DevOps)
-
+- [Beginner DevOps Track](https://github.com/denisfreitas999/DevOps-Guide)
+- [Learning DevOps CI/CD](https://github.com/denisfreitas999/DevOps-CI-CD)
 ---
   
 <p align="center">
