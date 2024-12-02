@@ -23,6 +23,7 @@ I completed my Bachelor's degree in Computer Science at the Federal University o
 ## Backend
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+  ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
 
 ## Databases
@@ -59,9 +60,10 @@ Clean Code: Always leave the campground cleaner than you found it. – Robert C.
 ## Key Areas of Interest
 1. Software Development
 2. Software Engineering
-3. DevOps
+3. DevSecOps
 4. Agile Methodologies
 5. Quality Assurance (QA)
+6. Lei Geral de Proteção de Dados Pessoais (LGPD)
 
 ## Working on: 🚀
 
@@ -69,12 +71,7 @@ Clean Code: Always leave the campground cleaner than you found it. – Robert C.
 - [Starting Golang](https://github.com/denisfreitas999/starting-golang)
 - [OOP With Golang](https://github.com/denisfreitas999/oop-golang)
 - [Web Application Golang](https://cursos.alura.com.br/course/go-lang-web)
----
   
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=denisfreitas999&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
-
 ---
 
 <p align="center">
