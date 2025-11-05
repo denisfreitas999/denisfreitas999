@@ -12,7 +12,7 @@ I completed my Bachelor's degree in Computer Science at the Federal University o
 ## Social media 📡
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freitas-denis-dev/)
 [![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:freitasdenis_dev@hotmail.com)
-[![Portfólio Digital](https://img.shields.io/website?label=Portif%C3%B3lio%20Digital&style=for-the-badge&url=https://sites.google.com/view/denisson-freitas-portfolio/sobre-mim)](https://sites.google.com/view/denisson-freitas-portfolio/sobre-mim)
+[![Portfólio Digital](https://img.shields.io/website?label=Portif%C3%B3lio%20Digital&style=for-the-badge&url=https://denisfreitas999.github.io/portfolio/)](https://denisfreitas999.github.io/portfolio/)
 
 ## Programming Languages
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
