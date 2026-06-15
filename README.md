@@ -1,12 +1,7 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=denisfreitas999&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## About Me 👋
 
 <p style="text-align: justify;">
-I am a Software Developer with experience in self-organizing teams and agile methodologies. My main experiences include developing a digital platform for Participatory Budgeting and contributing to the development and improvement of   an Alumni System.
-</p>
-<p style="text-align: justify;">
-I completed my Bachelor's degree in Computer Science at the Federal University of Sergipe (UFS) in May 2024, and I am currently starting a graduate program in Computer Science at UFS, following the Software Engineering research track.
+Master in Computer Science from the Federal University of Sergipe (UFS), with a research focus on Software Engineering, specifically on the development of frameworks for continuous compliance with the LGPD (General Data Protection Law) in DevSecOps pipelines (2026). Holds a specialization in General Data Protection Law (LGPD) from Faculdade Legale (2025). Holds a Bachelor's degree in Computer Science, also from UFS (2024), where he worked on software and web application development, with emphasis on the creation of digital participatory budgeting platforms using Blockchain (Decide Brasil) and alumni management systems (Gradway Alumni). Holds a technical degree in Chemistry from the Federal Institute of Education, Science and Technology of Sergipe (2016).
 </p>
 
 ## Social media 📡
@@ -17,8 +12,7 @@ I completed my Bachelor's degree in Computer Science at the Federal University o
 ## Programming Languages
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
 ## Backend
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -31,12 +25,6 @@ I completed my Bachelor's degree in Computer Science at the Federal University o
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-## Frontend
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Development Tools
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -58,20 +46,10 @@ Any fool can write code that a computer can understand. Good programmers write c
 Clean Code: Always leave the campground cleaner than you found it. – Robert C. Martin
 
 ## Key Areas of Interest
-1. Software Development
-2. Software Engineering
-3. DevSecOps
-4. Agile Methodologies
-5. Quality Assurance (QA)
-6. Lei Geral de Proteção de Dados Pessoais (LGPD)
+1. Software Engineering
+2. DevSecOps
+3. Brazilian Data Protection Law (LGPD)
 
-## Working on: 🚀
-
-- [Beginner DevOps Track](https://github.com/denisfreitas999/DevOps-Guide)
-- [Starting Golang](https://github.com/denisfreitas999/starting-golang)
-- [OOP With Golang](https://github.com/denisfreitas999/oop-golang)
-- [Web Application Golang](https://cursos.alura.com.br/course/go-lang-web)
-  
 ---
 
 <p align="center">
